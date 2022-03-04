@@ -39,4 +39,4 @@ O *dataset* conta com os seguintes atributos
 
 O *dataset* pode ser encontrado [aqui](https://www.kaggle.com/yasserh/nyc-taxi-trip-duration).
 
-Caso não consiga visualizar o notebook, acesse este [link](https://nbviewer.org/github/GabrielSBotelho/Linear-Regression/blob/main/NYC_Taxi_Duration.ipynb).
+Caso não consiga visualizar o notebook, acesse este [link](https://nbviewer.org/github/GabrielSBotelho/Linear-Regression/blob/main/NYC_Taxi_Duration.ipynb) ou acesse diratamente no [google colab](https://colab.research.google.com/drive/170KUP1j-kwgVFM3QAJS8GkHKj7i4sODh?usp=sharing).
