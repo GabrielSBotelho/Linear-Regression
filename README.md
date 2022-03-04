@@ -38,3 +38,5 @@ O *dataset* conta com os seguintes atributos
   * trip_duration: duração da viagem (em segundos).
 
 O *dataset* pode ser encontrado [aqui](https://www.kaggle.com/yasserh/nyc-taxi-trip-duration).
+
+Caso não consiga visualizar o notebook, acesse este [link](https://nbviewer.org/github/GabrielSBotelho/Linear-Regression/blob/main/NYC_Taxi_Duration.ipynb).
