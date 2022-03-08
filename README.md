@@ -1,6 +1,6 @@
 # Projetos de Regressão Linear
 
-A regressão linear é realizada a a partir do aprendizado supervisionado, ou seja, necessita de dados de entrada que são apresentados na forma de pares ordenados (entrada e saída). O algoritmo de regressão linear é utilizado para prever dados contínuos. Ele tenta escolher os melhores valores para os coeficientes de forma a minimizar a media dos quadrados dos erros (MSE). A fórmula utilizada na regressão linear para criação da reta é `y = a + bx`, sendo 
+A regressão linear é realizada a partir do aprendizado supervisionado, ou seja, necessita de dados de entrada que são apresentados na forma de pares ordenados (entrada e saída). O algoritmo de regressão linear é utilizado para prever dados contínuos. Ele tenta escolher os melhores valores para os coeficientes de forma a minimizar a media dos quadrados dos erros (MSE). A fórmula utilizada na regressão linear para criação da reta é `y = a + bx`, sendo 
 
 - `y`, o valor estimado
 - `a`, o coeficiente da linear *(altura da reta)*
